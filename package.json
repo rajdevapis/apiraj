@@ -1,0 +1,13 @@
+{
+  "name": "telegram-reward-bot",
+  "version": "1.0.0",
+  "description": "Reward bot with Firebase and Web App",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "firebase": "^10.8.1",
+    "node-telegram-bot-api": "^0.65.0"
+  }
+}
